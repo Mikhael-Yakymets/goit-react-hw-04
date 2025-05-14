@@ -1,0 +1,8 @@
+.gallaryImg {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  transition: transform 0.3s ease-in-out;
+  will-change: transform;
+  image-rendering: crisp-edges;
+}
